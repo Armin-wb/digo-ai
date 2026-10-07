@@ -7,12 +7,12 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-TOKEN = "7731778314:AAHm0--nIjzfcqJXYR_cPtwqxEhg7um5NtA"
+TOKEN = ""
 ADMIN_ID = 6736621660
-Api_Key = "srt-45ihlpFup0095klp50000009klJ-55wp809"
+Api_Key = ""
 SELLER_ID = 'armin_wb'
-GROUP_LINK = 'https://t.me/+mm_NjxnNZsA0MmZl'
-IdBot = "Paskhgoigp1_bot"
+GROUP_LINK = '
+IdBot = ""
 
 bot = telebot.TeleBot(TOKEN,parse_mode="Markdown")
 
