@@ -1,3 +1,4 @@
+http://github.com/arryboom/MasscanForWindows/blob/masscan64.exe
 import telebot
 from telebot import *
 import sqlite3
