@@ -1,4 +1,3 @@
-https://github.com/Jmat50/masscan-windows
 import telebot
 from telebot import *
 import sqlite3
